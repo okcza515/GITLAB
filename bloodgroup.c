@@ -2,6 +2,10 @@
 #include <string.h>
 //userA_Edit: change for number 14)
 //userA_EditThatWillBeConflict: change for number 19)
+<<<<<<< HEAD
+=======
+//userA_EditThatWillNotBeConflict: change for number 19)
+>>>>>>> 658dcba14d818b6cc1e6c912dc8a56d1201ac177
 void main()
 { char Name[40], G[5], answer[10];
   int i;
